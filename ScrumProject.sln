@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumProject", "WindowsFormsApplication1\ScrumProject.csproj", "{8CEF63FA-D919-4F1D-80C0-550B2EBE86B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumProject", "ScrumProject\ScrumProject.csproj", "{8CEF63FA-D919-4F1D-80C0-550B2EBE86B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
