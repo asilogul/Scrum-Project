@@ -16,6 +16,7 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
+            string ogul = "oğpulcan";
         }
 
         private void Form1_Load(object sender, EventArgs e)
