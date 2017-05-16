@@ -114,10 +114,9 @@
             // 
             this.comboBox3.FormattingEnabled = true;
             this.comboBox3.Items.AddRange(new object[] {
-            "Bitirilen Görevler",
-            "Devam Eden Görevler",
-            "Oğulcan",
-            "Mehmet"});
+            "All Tasks",
+            "Completed Tasks",
+            "Ongoing Tasks"});
             this.comboBox3.Location = new System.Drawing.Point(52, 86);
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(199, 21);
@@ -404,10 +403,9 @@
             // 
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Items.AddRange(new object[] {
-            "Bitirilen Görevler",
-            "Devam Eden Görevler",
-            "Oğulcan",
-            "Mehmet"});
+            "All Tasks",
+            "Completed Tasks",
+            "Ongoing Tasks"});
             this.comboBox2.Location = new System.Drawing.Point(52, 86);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(199, 21);
